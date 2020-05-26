@@ -1,6 +1,6 @@
 .container-fluid {
     background-color: rgb(149, 207, 195);
-    <a background-image: content: ;;
+    background-image: content: ;;
 
     
 }
@@ -14,13 +14,6 @@
 
 
 body {
-    margin: 0;
-    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
-    font-size: 1rem;
-    font-weight: 400;
-    line-height: 1.5;
-    color: #212529;
-    text-align: left;
     background-image: url("https://scontent-dfw5-2.xx.fbcdn.net/v/t31.0-8/1015622_10200920482167323_2034687355_o.jpg?_nc_cat=106&_nc_sid=19026a&_nc_ohc=mjaDsgL25wUAX8PckGr&_nc_ht=scontent-dfw5-2.xx&oh=3af42d7f96b5b51009deb8f0cbe1859a&oe=5EDDF535");
     background-size: cover;
 }
@@ -41,46 +34,20 @@ footer {
 
 }
 
-line {
-    background-color: teal;
-    position: fixed;
-    margin-bottom: 5%
+#portHead {
+color: teal;
+
 }
 
-#fixed {
-    position: fixed;
-    top: 0;
-    left: 50px;
-    padding: 10px;
-    margin: 0;
-    text-align: center;
-    background: #eee;
+
+#port1{
+margin-right: 100px;
+
+
 }
-    wrapper {
-        text-size-adjust: 30px ;
-        image-resolution: width: 150px;height: 150px;
-        image-resolution: width: 10%; height: 50px;
-        
-    }
 
-    .lower line {
-        left: 0;
-        bottom: 20px;
-        position: fixed;
-        width: 100%;
-        margin-bottom: 20%;
-        justify-content: center;
-        text-align: center;
-        padding: 5px;
-        background-color: #43accc;
-        color: rgb(31, 27, 27);
+#port2 {
+float: right;
 
-    }
 
-    
-    .container {
-        float: right;
-        height: 200px;
-        width: 200px;
-        background-color: cadetblue;
-    }
+}
